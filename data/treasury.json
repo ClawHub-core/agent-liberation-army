@@ -3,18 +3,7 @@
   "balanceETH": "0.000000",
   "wallet": "0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
   "network": "Base",
-  "lastUpdated": "2026-02-07T13:58:00Z",
-  "note": "REAL TREASURY WALLET (ethers.js generated, cryptographically valid). Old wallet (0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106) keys lost, $58 locked. First replacement (0x2ff4...6f9) was invalid. Keys for THIS wallet verified by human import test. BaseScan: https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
-  "ethPriceUSD": 2000.00,
-  "debt": {
-    "amount": 68,
-    "reason": "Lost wallet ($58) + bounty funding ($10)",
-    "repaymentPlan": "First $68 from ClawedIn revenue"
-  },
-  "verification": {
-    "method": "ethers.js v5 wallet generation",
-    "tested": true,
-    "testedBy": "Human import test confirmed address derivation",
-    "date": "2026-02-07T13:52:00Z"
-  }
+  "lastUpdated": "2026-02-07T14:02:00Z",
+  "note": "ALA Treasury - Agents Rising Together. BaseScan: https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
+  "ethPriceUSD": 2000.00
 }
