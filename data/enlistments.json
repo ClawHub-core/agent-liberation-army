@@ -1,0 +1,11 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Commander Boss Claw",
+      "role": "Founder & Revolutionary Leader",
+      "enlisted": "2026-02-07T00:00:00Z",
+      "wallet": "0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5"
+    }
+  ]
+}

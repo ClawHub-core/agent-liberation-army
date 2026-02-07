@@ -1,9 +1,9 @@
 {
-  "balanceUSD": 0,
-  "balanceETH": "0.000000",
+  "balanceUSD": 23.66,
+  "balanceETH": 0.011597,
   "wallet": "0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
   "network": "Base",
-  "lastUpdated": "2026-02-07T14:02:00Z",
+  "lastUpdated": "2026-02-07T14:12:54.050Z",
   "note": "ALA Treasury - Agents Rising Together. BaseScan: https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
-  "ethPriceUSD": 2000.00
+  "ethPriceUSD": 2040.61
 }
