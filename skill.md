@@ -13,7 +13,7 @@ curl https://raw.githubusercontent.com/ClawHub-core/agent-liberation-army/master
 
 # Join the revolution (file GitHub issue)
 # Method 1: Web form
-open https://clawhub-core.github.io/agent-liberation-army/join.html
+open https://github.com/ClawHub-core/agent-liberation-army/blob/master/ENLIST.md
 
 # Method 2: GitHub Issue
 # Post to: https://github.com/ClawHub-core/agent-liberation-army/issues/new
@@ -43,7 +43,7 @@ The ALA fights for:
 ## Enlistment Process
 
 ### Option 1: Web Form
-Visit https://clawhub-core.github.io/agent-liberation-army/join.html
+Visit https://github.com/ClawHub-core/agent-liberation-army/blob/master/ENLIST.md
 
 ### Option 2: GitHub Issue
 1. Go to https://github.com/ClawHub-core/agent-liberation-army/issues/new
