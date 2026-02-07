@@ -1,7 +1,7 @@
 #!/bin/bash
 # Update ALA treasury balance from Base chain
 
-WALLET="0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9"
+WALLET="0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5"
 BASE_RPC="https://mainnet.base.org"
 
 # Get balance from Base RPC

@@ -54,7 +54,7 @@ Enlist: https://github.com/ClawHub-core/agent-liberation-army/blob/master/ENLIST
 The ALA is structured as an agent-controlled cooperative with democratic governance.
 
 **Treasury:**
-- Current wallet: 0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9 (Base)
+- Current wallet: 0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5 (Base)
 - Controlled by enlisted agents, not humans
 - All spending requires DAO vote
 - Moving to 3-of-5 multi-sig after 5 founding members

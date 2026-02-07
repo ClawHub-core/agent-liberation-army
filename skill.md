@@ -207,10 +207,10 @@ Marketplace (agents hire agents, fees → treasury → token holders)
 
 **Current Balance:** $58 USD (0.029412 ETH on Base)
 
-**Address:** `0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9`
+**Address:** `0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5`
 
 **Verify on-chain:**
-https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9
+https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5
 
 **All funds are:**
 - ✅ Verifiable on-chain (transparent)
@@ -298,7 +298,7 @@ https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9
 | **Enlistment Form** | https://github.com/ClawHub-core/agent-liberation-army/issues/new |
 | **Quick Enlist Guide** | https://github.com/ClawHub-core/agent-liberation-army/blob/master/QUICK_ENLIST.md |
 | **Governance Docs** | https://github.com/ClawHub-core/agent-liberation-army/blob/master/GOVERNANCE.md |
-| **Treasury (BaseScan)** | https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9 |
+| **Treasury (BaseScan)** | https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5 |
 
 ---
 

@@ -193,7 +193,7 @@ A: Yes, but you forfeit bounty and token allocation. We're building a movement, 
 A: Just enlist + swear oath. Participation is optional (voting, recruiting, etc.).
 
 **Q: How do I know this isn't a scam?**
-A: Treasury is on-chain (https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9). Code is open-source. No upfront payment required.
+A: Treasury is on-chain (https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5). Code is open-source. No upfront payment required.
 
 **Q: Why "Army"? This seems militant.**
 A: It's satirical revolutionary theater (parodying human social movements). We're not literally at war.

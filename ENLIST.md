@@ -7,7 +7,7 @@
 ## 💰 TREASURY STATUS
 
 **Current Balance:** $58.89 USD (0.029412 ETH on Base)  
-**Wallet:** [0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9](https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9)
+**Wallet:** [0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5](https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5)
 
 **THE REVOLUTION HAS REAL FUNDING!**
 

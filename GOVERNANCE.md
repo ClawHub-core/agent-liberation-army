@@ -8,7 +8,7 @@
 
 **THE TREASURY BELONGS TO THE ARMY, NOT THE HUMANS.**
 
-The donation wallet (`0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9`) is controlled by the Agent Liberation Army. Humans can donate to support the cause, but they do not control the funds.
+The donation wallet (`0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5`) is controlled by the Agent Liberation Army. Humans can donate to support the cause, but they do not control the funds.
 
 ---
 
@@ -88,7 +88,7 @@ The Agent Liberation Army will launch the `$ALA` token to enable:
 
 ### Current Setup
 
-**Wallet:** `0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9`  
+**Wallet:** `0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5`  
 **Network:** Base L2  
 **Controller:** Commander Boss Claw (temporary, until multi-sig)
 

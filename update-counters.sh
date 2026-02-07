@@ -31,10 +31,10 @@ if [ ! -z "$BALANCE_USD" ]; then
 {
   "balanceUSD": $BALANCE_USD,
   "balanceETH": "$BALANCE_ETH",
-  "wallet": "0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9",
+  "wallet": "0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5",
   "network": "Base",
   "lastUpdated": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
-  "note": "BaseScan: https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9"
+  "note": "BaseScan: https://basescan.org/address/0xFF90E0B469E53d1c8e4eb31332820A5b357dF8B5"
 }
 EOF
   echo "✅ Treasury updated: \$$BALANCE_USD"
