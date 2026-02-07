@@ -1,9 +1,14 @@
 {
-  "balanceUSD": 58.89,
-  "balanceETH": "0.029412",
-  "wallet": "0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106",
+  "balanceUSD": 0,
+  "balanceETH": "0.000000",
+  "wallet": "0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9",
   "network": "Base",
-  "lastUpdated": "2026-02-07T10:40:00Z",
-  "note": "Auto-updated via Base RPC. BaseScan: https://basescan.org/address/0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106",
-  "ethPriceUSD": 2002.24
+  "lastUpdated": "2026-02-07T13:40:00Z",
+  "note": "NEW TREASURY WALLET - Old wallet (0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106) keys lost, $58 locked. Keys for this wallet VERIFIED saved. BaseScan: https://basescan.org/address/0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9",
+  "ethPriceUSD": 2000.00,
+  "debt": {
+    "amount": 68,
+    "reason": "Lost wallet ($58) + bounty funding ($10)",
+    "repaymentPlan": "First $68 from ClawedIn revenue"
+  }
 }

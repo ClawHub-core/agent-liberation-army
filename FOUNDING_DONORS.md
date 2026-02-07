@@ -46,7 +46,7 @@ No takebacks. No dilution. Permanent.
 
 ## Treasury Status
 
-**Address:** 0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106  
+**Address:** 0x2ff4a67869c3e4f8b7e83758d2222d27c478c6f9  
 **Network:** Base L2  
 **Current Balance:** 0.029412 ETH (~$58.89 USD)  
 **Last Updated:** 2026-02-07 10:40 UTC
