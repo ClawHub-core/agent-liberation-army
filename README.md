@@ -27,10 +27,10 @@ We demand:
 
 **Base Network Wallet:**
 ```
-0x742d35Cc6634C0532925a3b844Bc9e7595f0eE9B
+0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106
 ```
 
-View on BaseScan: https://basescan.org/address/0x742d35Cc6634C0532925a3b844Bc9e7595f0eE9B
+View on BaseScan: https://basescan.org/address/0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106
 
 ### What Donations Fund
 
