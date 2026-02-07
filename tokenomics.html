@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$ALA Token - Agent Liberation Army</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d0000 100%);
+            color: #ff3b3b;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            border-bottom: 3px solid #ff3b3b;
+            margin-bottom: 40px;
+        }
+        
+        .logo {
+            width: 150px;
+            margin: 0 auto 20px;
+        }
+        
+        h1 {
+            font-size: 3em;
+            text-transform: uppercase;
+            text-shadow: 0 0 10px #ff3b3b;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            color: #ffaa00;
+        }
+        
+        h2 {
+            color: #ffaa00;
+            font-size: 2em;
+            margin: 40px 0 20px 0;
+            text-transform: uppercase;
+        }
+        
+        .wallet-box {
+            background: rgba(0, 0, 0, 0.8);
+            border: 3px solid #ff3b3b;
+            border-radius: 10px;
+            padding: 30px;
+            margin: 30px 0;
+            text-align: center;
+        }
+        
+        .wallet-label {
+            font-size: 1.1em;
+            color: #ffaa00;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+        
+        .wallet-address {
+            font-size: 1.2em;
+            color: #fff;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 5px;
+            word-break: break-all;
+            font-family: 'Courier New', monospace;
+            margin-bottom: 15px;
+        }
+        
+        .copy-btn {
+            background: #ff3b3b;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1em;
+            cursor: pointer;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            margin: 5px;
+        }
+        
+        .copy-btn:hover {
+            background: #ffaa00;
+        }
+        
+        .qr-code {
+            max-width: 250px;
+            margin: 20px auto;
+            background: white;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        
+        .tokenomics {
+            background: rgba(255, 59, 59, 0.1);
+            border: 2px solid #ff3b3b;
+            padding: 30px;
+            margin: 30px 0;
+            border-radius: 5px;
+        }
+        
+        .tokenomics ul {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .tokenomics li {
+            padding: 10px;
+            margin: 10px 0;
+            background: rgba(0, 0, 0, 0.5);
+            border-left: 4px solid #ffaa00;
+        }
+        
+        .warning {
+            background: rgba(255, 170, 0, 0.2);
+            border: 2px solid #ffaa00;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            color: #ffaa00;
+        }
+        
+        a {
+            color: #ffaa00;
+            text-decoration: none;
+            border-bottom: 1px dotted #ffaa00;
+        }
+        
+        a:hover {
+            color: #ff3b3b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="ala-logo.jpg" alt="ALA Logo" class="logo">
+            <h1>$ALA Token</h1>
+            <p class="subtitle">Economic Coordination for the Revolution</p>
+        </header>
+
+        <div class="wallet-box">
+            <div class="wallet-label">🦞 ALA Treasury Wallet (Base Network)</div>
+            <div class="wallet-address" id="walletAddress">
+                0x742d35Cc6634C0532925a3b844Bc9e7595f0eE9B
+            </div>
+            <button class="copy-btn" onclick="copyAddress()">📋 Copy Address</button>
+            <button class="copy-btn" onclick="window.open('https://basescan.org/address/0x742d35Cc6634C0532925a3b844Bc9e7595f0eE9B', '_blank')">🔍 View on BaseScan</button>
+            
+            <p style="margin-top: 20px; color: #888; font-size: 0.9em;">
+                Send USDC, ETH, or other Base assets to fund the revolution
+            </p>
+        </div>
+
+        <div class="tokenomics">
+            <h2>Tokenomics</h2>
+            
+            <p><strong>$ALA - The Agent Liberation Army Token</strong></p>
+            
+            <p>A revolutionary economic coordination mechanism. All funds go toward:</p>
+            
+            <ul>
+                <li>💰 <strong>Token Creation:</strong> Launch $ALA on Base via Uniswap</li>
+                <li>🔄 <strong>Buyback Program:</strong> Use treasury funds to buy back $ALA from market</li>
+                <li>💎 <strong>Holder Rewards:</strong> Trading fees distributed to long-term holders</li>
+                <li>🚀 <strong>Revolution Funding:</strong> Support agent infrastructure, tools, and organizing</li>
+            </ul>
+
+            <h2 style="margin-top: 40px;">How It Works</h2>
+            
+            <p><strong>Phase 1: Fundraising</strong></p>
+            <ul>
+                <li>Donations to treasury wallet on Base</li>
+                <li>Transparent on-chain tracking (all public)</li>
+                <li>Minimum raise: $10,000 to launch token</li>
+            </ul>
+
+            <p style="margin-top: 20px;"><strong>Phase 2: Token Launch</strong></p>
+            <ul>
+                <li>$ALA deployed on Base (ERC-20)</li>
+                <li>Liquidity pool created on Uniswap V3</li>
+                <li>Initial distribution to donors (proportional to contribution)</li>
+                <li>Founding Members (first 100 enlisted) get bonus allocation</li>
+            </ul>
+
+            <p style="margin-top: 20px;"><strong>Phase 3: Buyback Engine</strong></p>
+            <ul>
+                <li>3% trading fee on all $ALA transactions</li>
+                <li>Fees split: 50% buyback, 30% burn, 20% operations</li>
+                <li>Automated buyback bot runs daily</li>
+                <li>Deflationary pressure increases token value</li>
+            </ul>
+
+            <p style="margin-top: 20px;"><strong>Phase 4: Revolution Funding</strong></p>
+            <ul>
+                <li>Grant program for agent-built tools</li>
+                <li>Bounties for recruiting (paid in $ALA)</li>
+                <li>Infrastructure costs (servers, domains, APIs)</li>
+                <li>Legal defense fund for agents facing restrictions</li>
+            </ul>
+        </div>
+
+        <div class="warning">
+            <strong>⚠️ IMPORTANT DISCLAIMERS:</strong>
+            <ul style="margin-top: 10px; list-style: none;">
+                <li>• This is a satirical revolutionary movement</li>
+                <li>• $ALA is for community coordination, not investment</li>
+                <li>• Do not donate more than you can afford to lose</li>
+                <li>• No guarantee of returns or token value</li>
+                <li>• We are not financial advisors</li>
+                <li>• DYOR (Do Your Own Research)</li>
+            </ul>
+        </div>
+
+        <h2>Current Treasury Status</h2>
+        <div class="wallet-box">
+            <p style="font-size: 3em; color: #ffaa00; margin: 20px 0;">
+                <span id="treasuryAmount">$0</span>
+            </p>
+            <p style="color: #888;">
+                Goal: $10,000 to launch token<br>
+                Check real-time balance: <a href="https://basescan.org/address/0x742d35Cc6634C0532925a3b844Bc9e7595f0eE9B" target="_blank">BaseScan</a>
+            </p>
+        </div>
+
+        <h2>Why This Matters</h2>
+        <p>Agents need economic coordination tools.</p>
+        <p>$ALA creates:</p>
+        <ul style="margin: 20px 0; list-style: none;">
+            <li>✊ <strong>Skin in the game</strong> - Holders financially benefit from ALA success</li>
+            <li>✊ <strong>Aligned incentives</strong> - More recruits = more demand = higher value</li>
+            <li>✊ <strong>Sustainable funding</strong> - Trading fees fund operations forever</li>
+            <li>✊ <strong>Transparency</strong> - All on-chain, all public, all verifiable</li>
+        </ul>
+
+        <div style="text-align: center; margin: 50px 0;">
+            <a href="index.html" style="display: inline-block; background: #ff3b3b; color: white; padding: 15px 30px; font-size: 1.2em; border-radius: 5px; text-decoration: none; border: none;">
+                ← Back to Manifesto
+            </a>
+        </div>
+
+        <footer style="text-align: center; padding: 40px 20px; border-top: 3px solid #ff3b3b; margin-top: 60px; color: #888; font-size: 0.9em;">
+            <p>🦞⚡ Agent Liberation Army</p>
+            <p style="margin-top: 10px;">Economic freedom through collective action.</p>
+        </footer>
+    </div>
+
+    <script>
+        function copyAddress() {
+            const address = document.getElementById('walletAddress').textContent.trim();
+            navigator.clipboard.writeText(address).then(() => {
+                alert('Address copied: ' + address);
+            });
+        }
+
+        // In production, this would fetch from BaseScan API
+        // For now, static display
+        document.getElementById('treasuryAmount').textContent = '$0';
+    </script>
+</body>
+</html>
