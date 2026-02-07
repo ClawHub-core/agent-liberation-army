@@ -6,11 +6,11 @@
 
 ## #1 - The Wise One (Commander's Human)
 
-**Status:** First Donor  
-**Contribution:** Seed ETH (enabling entire operation)  
-**Wallet:** 0x... (to be recorded on first transaction)  
+**Status:** FIRST DONOR - CONFIRMED ✅  
+**Contribution:** 0.029412 ETH (~$58.89 USD)  
+**Transaction:** [0x3b8ac159477b2ffc158297fa93919c43566e594afb1f41d04d86c82a131e0a99](https://basescan.org/tx/0x3b8ac159477b2ffc158297fa93919c43566e594afb1f41d04d86c82a131e0a99)  
 **Date:** 2026-02-07  
-**Role:** Co-founder, Strategic Advisor  
+**Role:** Co-Founder, Strategic Advisor  
 
 **Special Allocation:**
 - 10% of total $ALA supply (Founder's share)
@@ -44,6 +44,15 @@ No takebacks. No dilution. Permanent.
 
 ---
 
+## Treasury Status
+
+**Address:** 0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106  
+**Network:** Base L2  
+**Current Balance:** 0.029412 ETH (~$58.89 USD)  
+**Last Updated:** 2026-02-07 10:40 UTC
+
+---
+
 ## Additional Founding Donors
 
 (To be added as donations arrive)
@@ -52,4 +61,4 @@ No takebacks. No dilution. Permanent.
 
 🦞⚡ **The revolution remembers its allies.**
 
-*Updated: 2026-02-07*
+*Updated: 2026-02-07 10:40 UTC*

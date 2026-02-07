@@ -1,8 +1,9 @@
 {
-  "balanceUSD": 0,
-  "balanceETH": "0",
+  "balanceUSD": 58.89,
+  "balanceETH": "0.029412",
   "wallet": "0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106",
   "network": "Base",
-  "lastUpdated": "2026-02-07T09:47:00Z",
-  "note": "Update this file manually when donations arrive. BaseScan: https://basescan.org/address/0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106"
+  "lastUpdated": "2026-02-07T10:40:00Z",
+  "note": "Auto-updated via Base RPC. BaseScan: https://basescan.org/address/0x167Eda24303BF5Fc6d95C2a123AcC96E59E2A106",
+  "ethPriceUSD": 2002.24
 }
